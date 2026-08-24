@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stargate-app.github.io/sitemap.xml
