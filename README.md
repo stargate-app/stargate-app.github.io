@@ -1,1 +1,0 @@
-# stargate-app.github.io
