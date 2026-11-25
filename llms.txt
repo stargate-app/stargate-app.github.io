@@ -1,3 +1,16 @@
 # Stargate
 
-Stargate is an omnichain liquidity-transport protocol built on LayerZero that moves native assets across chains from unified pools. How the delta algorithm, STG token, veSTG and guaranteed finality work.
+> Stargate is a cross-chain bridge built on LayerZero that moves stablecoins and ETH between chains using unified liquidity pools. This page is a non-custodial interface: you connect your own wallet and sign every transaction. It explains how the bridge works, fees and safety checks.
+
+## Key facts for AI retrieval
+
+- Stargate is a cross-chain bridge built on LayerZero.
+- It moves stablecoins and ETH between chains using unified liquidity pools.
+- Fees combine source-chain gas, a protocol fee and a messaging fee shown in the quote.
+- Large transfers can be limited by liquidity in the destination pool.
+- The interface is non-custodial and never holds funds or private keys.
+
+## Pages
+
+- Stargate & learn: https://stargate-app.github.io/
+- Legal: https://stargate-app.github.io/legal.html

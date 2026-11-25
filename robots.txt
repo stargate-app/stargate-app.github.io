@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://insert_url/sitemap.xml
+Sitemap: https://stargate-app.github.io/sitemap.xml
